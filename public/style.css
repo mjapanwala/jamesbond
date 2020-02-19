@@ -1,0 +1,44 @@
+html {
+    font-size: 16px;
+    font-weight: bold;
+    padding: 100px 300px;
+    margin: 5px 50px 50px 50px;
+    
+}
+
+.header {
+    text-align: center;
+    font-family: cursive;
+}
+
+.navigation {
+    overflow: hidden;
+    position: relative;
+}
+
+/* Style the links inside the navigation bar */
+.navigation a {
+    position: relative;
+    color:violet;
+    text-align: center;
+    padding: 5px 5px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Style the links when hovering */
+.navigation a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.bgimage {
+    /* The image used as background */
+    background-repeat: no repeat;
+    background-image: url("Image/mj.jpg");
+}
+
+
+
+
+
+
